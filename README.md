@@ -28,12 +28,14 @@ Tool for downloading data from your Outlook Web Application calendar (selenium p
 > Gscript)
 
 ### Python script
-Install requirements
+1. Install requirements
 ```sh
 $ python setup.py install
 ```
 
-Run python script.
+2. Replace *<<YOUR ...>>* strings in [headless.py](https://github.com/igorsimko/owa-calendar-extractor/blob/master/headless.py "headless.py")
+
+3. Run python script.
 
 ```sh
 $ python headless.py
