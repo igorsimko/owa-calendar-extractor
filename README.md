@@ -28,6 +28,11 @@ Tool for downloading data from your Outlook Web Application calendar (selenium p
 > Gscript)
 
 ### Python script
+Install requirements
+```sh
+$ python setup.py install
+```
+
 Run python script.
 
 ```sh
