@@ -1,4 +1,4 @@
-# owa-calendar-extractor
+# Outlook Web Application - Calendar extractor
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 ![Google app script](https://img.shields.io/badge/google--app--script-stable-blue.svg)
 
