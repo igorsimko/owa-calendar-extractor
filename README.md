@@ -1,6 +1,8 @@
 # owa-calendar-extractor
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
+![Google app script](https://img.shields.io/badge/google--app--script-stable-blue.svg)
 
-Download data from your Outlook Web Application calendar (selenium python script) and store to Google Calendar (google app script)
+Tool for downloading data from your Outlook Web Application calendar (selenium python script) and store to your Google Calendar (google app script)
 
 
 ## Installation
